@@ -1,0 +1,4 @@
+apple:2.00
+banana:4.00
+milk:5.00
+chips:1.50
